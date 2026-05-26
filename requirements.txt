@@ -1,0 +1,3 @@
+Database System: MySQL / PostgreSQL / SQL Server / SQLite
+Data Layout: 1,200 Transactional Retail Orders
+Analysis Type: Business Intelligence & Descriptive Statistics
